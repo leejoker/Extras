@@ -11,3 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - uses: zwping/fork-sync@v1.6.5
+        with: 
+          owner: leejoker
+          retries: 10
