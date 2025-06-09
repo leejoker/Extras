@@ -1,0 +1,13 @@
+# .github/workflows/sync.yml
+
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '0 10 * * *' 
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: zwping/fork-sync@v1.6.5
