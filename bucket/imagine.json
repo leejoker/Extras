@@ -10,7 +10,7 @@
     "architecture": {
         "64bit": {
             "url": "https://raw.githubusercontent.com/nyam1003/imagine/main/x64/Imagine_2.2.0_x64_Unicode.zip",
-            "hash": "9941f5ba72e2a0ecd40df8b02ddae6a08e023e1b501817cbbc62736be3f3a1eb",
+            "hash": "1e6aa4c5809ce662802098e5d03c83946b9863971ad906693d4cec85860f6b44",
             "bin": [
                 "Imagine64.exe",
                 [
@@ -27,7 +27,7 @@
         },
         "32bit": {
             "url": "https://raw.githubusercontent.com/nyam1003/imagine/main/Imagine_2.2.0_Unicode.zip",
-            "hash": "1a7824c80d701aabd3ee01dc16290873304b85dc82a7e7f22845f21daee41093",
+            "hash": "6153c8f0339777db7e5ac7b94aa1942887b1051b53d999953e3df9f4eb3199b0",
             "bin": "Imagine.exe",
             "shortcuts": [
                 [
